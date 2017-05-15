@@ -13,7 +13,7 @@ import actionlib
 
 
 def reachedGoal(state):
-    return result == 3
+    return state == 3
     
 
 
